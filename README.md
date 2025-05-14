@@ -1,53 +1,54 @@
+<!-- HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Y2ZUWLrTy63j9T6qyN/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Sanji Cooking" />
 </p>
 
-<h1 align="center">Hi there, I'm Ahmad Alfarizi</h1>
+<h1 align="center">Hi, I'm Ahmad Alfarizi!</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Web+Developer;Mobile+Developer+(Basic);React%2C+Golang%2C+Flutter+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-### 🚀 About Me
-
-Saya adalah seorang developer yang fokus pada pengembangan website menggunakan React dan backend dengan Golang. Saya juga sedang mendalami pengembangan aplikasi mobile menggunakan Flutter.
-
----
-
-### 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadAlfarizi&show_icons=true&theme=radical" alt="Ahmad's GitHub stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Web+Developer;Basic+Mobile+Developer;React+%7C+Golang+%7C+Flutter+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔗 Contact
+### 👨‍💻 About Me
 
-- LinkedIn: *menyusul*
+Hi, saya Ahmad Alfarizi — seorang Web Developer dan pemula dalam pengembangan aplikasi mobile. Saya fokus membangun aplikasi modern, cepat, dan responsif dengan teknologi seperti React, Golang, dan Flutter.
 
 ---
 
-### 🌟 Proyek Unggulan
+### 🧠 Skills & Tech Stack
 
-- Portofolio: *menyusul*
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Golang](https://img.shields.io/badge/-Golang-0A0A0A?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+### 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadAlfarizi&show_icons=true&theme=radical&hide_title=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAlfarizi&theme=radical" width="47%"/>
+</div>
+
+---
+
+### ⭐ Featured Projects
+
+- **Portofolio** — *Segera hadir*
+
+---
+
+### 📫 Let's Connect
+
+- LinkedIn: *[Belum tersedia]*  
+<!-- Tambahkan tautan jika sudah punya -->
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100"/>
-  <br>
-  <em>Terima kasih sudah mengunjungi profil saya!</em>
+  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="120" alt="Wave Sanji" />
 </p>
+
+<p align="center"><em>Terima kasih sudah mampir ke profil saya!</em></p>
