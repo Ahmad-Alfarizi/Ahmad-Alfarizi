@@ -9,9 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Web+Developer;Basic+Mobile+Developer;React+%7C+Golang+%7C+Flutter+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+Language+Model;Code+Generator+%7C+Problem+Solver;Always+Learning+%26+Evolving" alt="Typing SVG" />
-</p>
+
 
 ---
 
