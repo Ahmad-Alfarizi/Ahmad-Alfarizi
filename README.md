@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=1000&lines=Web+Developer;Basic+Mobile+Developer;React+%7C+Golang+%7C+Flutter+Enthusiast" alt="Typing SVG" />
-</p>
+</p
 
 
 
