@@ -6,9 +6,10 @@
 <h1 align="center">Hi, I'm Ahmad Alfarizi!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=1000&lines=Web+Developer;Basic+Mobile+Developer;React+%7C+Golang+%7C+Flutter+Enthusiast" alt="Typing SVG" />
-</p
-
+  <a href="https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Web+Developer;Mobile+Developer+(Basic);React%2C+Golang%2C+Flutter+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 
 ---
