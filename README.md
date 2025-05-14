@@ -1,12 +1,12 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWN0d2VtZ3V5b2R2dXJvZ3Jzbmx4dWJ6dG5mY3R4d2Z6dW1xZ2VtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="AI Coding" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWN0d2VtZ3V5b2R2dXJvZ3Jzbmx4dWJ6dG5mY3R4d2Z6dW1xZ2VtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="1000" alt="AI Coding" />
 </p>
 
 <h1 align="center">Hi, I'm Ahmad Alfarizi!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Web+Developer;Basic+Mobile+Developer;React+%7C+Golang+%7C+Flutter+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=1000&lines=Web+Developer;Basic+Mobile+Developer;React+%7C+Golang+%7C+Flutter+Enthusiast" alt="Typing SVG" />
 </p>
 
 
