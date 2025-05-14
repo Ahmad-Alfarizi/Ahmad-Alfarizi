@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Sanji Cooking" />
+  <img src="[https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Sanji Cooking](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWN0d2VtZ3V5b2R2dXJvZ3Jzbmx4dWJ6dG5mY3R4d2Z6dW1xZ2VtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="AI Coding")" />
 </p>
 
 <h1 align="center">Hi, I'm Ahmad Alfarizi!</h1>
