@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Web+Developer;Mobile+Developer+(Basic);React%2C+Golang%2C+Flutter+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Software+Developer;React%2C+Python%2C+Flutter+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,14 +16,13 @@
 
 ### 👨‍💻 About Me
 
-Hi, saya Ahmad Alfarizi — seorang Web Developer dan pemula dalam pengembangan aplikasi mobile. Saya fokus membangun aplikasi modern, cepat, dan responsif dengan teknologi seperti React, Golang, dan Flutter.
+Hi, saya Ahmad Alfarizi — seorang software developer. Saya fokus membangun aplikasi modern, cepat, dan responsif dengan teknologi seperti React, Django, dan Flutter.
 
 ---
 
 ### 🧠 Skills & Tech Stack
 
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Golang](https://img.shields.io/badge/-Golang-0A0A0A?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
